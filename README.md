@@ -4,7 +4,7 @@ Yuerong Song<sup>1,2</sup>, Xiaoran Liu<sup>1,2</sup>, Ruixiao Li<sup>1,2</sup>,
 
 <sup>1</sup> Fudan Univerisity, <sup>2</sup>Shanghai Innovation Institute, <sup>3</sup>Shanghai AI Laboratory
 
-[<a href="https://arxiv.org/abs/2508.02558">📝 Paper</a>] | [<a href="https://huggingface.co/papers/2508.02558">🤗 HF</a>] | [<a href="https://github.com/sunnyremm/Sparse-dLLM">🚀 Code</a>]
+[<a href="https://arxiv.org/abs/2508.02558">📝 Paper</a>] | [<a href="https://huggingface.co/papers/2508.02558">🤗 HF</a>] | [<a href="https://github.com/OpenMOSS/Sparse-dLLM">🚀 Code</a>]
 </div>
 
 ## Introduction
